@@ -9,6 +9,3 @@ The dataset can be found on Kaggle: https://www.kaggle.com/datasets/vjchoudhary7
 # Model used:
 The K-means clustering algorithm is employed for customer segmentation in this project. K-means is a widely used unsupervised learning algorithm that partitions data points into K clusters based on their similarity. It iteratively assigns data points to clusters in a way that minimizes the within-cluster sum of squares.
 
-# Clone the Repository:
-Toget started , clone this repository to your local machine :
-git clone https://github.com/Abarna-A/PRODIGY_ML_02.git
